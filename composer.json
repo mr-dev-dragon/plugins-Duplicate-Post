@@ -1,0 +1,10 @@
+{
+    "name": "pentiminax/duplicate-post",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Pentiminax\\DuplicatePost\\": "src/"
+        }
+    },
+    "require": {}
+}
